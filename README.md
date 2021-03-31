@@ -3,39 +3,48 @@
     <img width="300" src="https://raw.githubusercontent.com/renan-almeidaa/moveit/master/public/logo-full.svg">
   </a>
 </p>
+<p align="center">
+  <img  src="https://img.shields.io/github/license/renan-almeidaa/moveit" alt="License">
+
+  <img src="https://img.shields.io/github/forks/renan-almeidaa/moveit" alt="Forks">     
+
+  <img src="https://img.shields.io/github/stars/renan-almeidaa/moveit" alt="Stars">
+</p>
+
+## 💻 About the project move-it
+  
+  This is a website developed in order to help people exercise, being fully developed during the week NLW # 4 - Next Level Week.
+  
+  (This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).)
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## ⚙️ How to run the development server
 
-## How to run the development server
-
-First, run the code below: 
+First run the code below 
 
 ```bash
 npm run dev
 # or
 yarn dev
 ```
+  
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. <li>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Technologies
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+This project was developed using the following technologies:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Deployed with vercel
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🔥 More about the project
+  This project was deployed with vercel.
+  You can see the project by clicking on the following link: 
+ - [![Deploy with Vercel](https://vercel.com/button)](https://moveittttt.vercel.app/)
+  
+![image](https://user-images.githubusercontent.com/62446486/113192905-ba36af00-9235-11eb-9886-5f5675f4f33d.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
