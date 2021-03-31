@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://moveittttt.vercel.app/">
-    <img width="200" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg![image](https://user-images.githubusercontent.com/62446486/113189601-c1f45480-9231-11eb-886f-e920df3b2871.png)
-">
+    <img width="300" src="https://raw.githubusercontent.com/renan-almeidaa/moveit/master/public/logo-full.svg">
   </a>
 </p>
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
