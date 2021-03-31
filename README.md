@@ -11,6 +11,15 @@
   <img src="https://img.shields.io/github/stars/renan-almeidaa/moveit" alt="Stars">
 </p>
 
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
 ## 💻 About the project move-it
   
   This is a website developed in order to help people exercise, being fully developed during the week NLW # 4 - Next Level Week.
@@ -20,7 +29,14 @@
 
 ## ⚙️ How to run the development server
 
-- First run the code below 
+
+- Clone the repository
+
+```bash
+$ git clone https://github.com/renan-almeidaa/moveit.git && cd moveit
+```
+
+- Run the code below to start a server
 
 ```bash
 npm run dev
@@ -38,10 +54,27 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## 🖌️ Layout
+
+- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0) 
+
 ## 🔥 More about the project
   This project was deployed with vercel.
-  You can see the project by clicking on the following link: 
- - [![Deploy with Vercel](https://vercel.com/button)](https://moveittttt.vercel.app/)
+  You can view the project by clicking on the following link: 
+- [![Deploy with Vercel](https://vercel.com/button)](https://moveittttt.vercel.app/)
   
-![image](https://user-images.githubusercontent.com/62446486/113192905-ba36af00-9235-11eb-9886-5f5675f4f33d.png)
+- <h2> To start the countdown click "Iniciar um ciclo" </h2>
+  
+![image](https://user-images.githubusercontent.com/62446486/113217585-815a0280-9254-11eb-8035-b208b0727541.png)
 
+- <h2>When the countdown is over, you should do the exercise shown </h2>
+ 
+ ![image](https://user-images.githubusercontent.com/62446486/113217837-deee4f00-9254-11eb-99c2-2bb3ed59111a.png)
+ 
+- <h2> When you finish, click "completei" and you'll get some exp. If you get exp enough, you will level up </h2>
+ 
+ ![image](https://user-images.githubusercontent.com/62446486/113218070-460c0380-9255-11eb-842a-46b7f02e84f3.png)
+
+
+
+<p align="center">Made by Renan Almeida</p>
