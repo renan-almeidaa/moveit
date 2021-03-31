@@ -38,9 +38,6 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Deployed with vercel
-
-
 ## 🔥 More about the project
   This project was deployed with vercel.
   You can see the project by clicking on the following link: 
